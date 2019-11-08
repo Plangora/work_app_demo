@@ -1,0 +1,2 @@
+defmodule WorkApp do
+end
