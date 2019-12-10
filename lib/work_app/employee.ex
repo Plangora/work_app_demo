@@ -1,3 +1,3 @@
 defmodule WorkApp.Employee do
-  defstruct [:first_name, :last_name]
+  defstruct [:id, :first_name, :last_name]
 end

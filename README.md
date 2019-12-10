@@ -1,9 +1,9 @@
 # Example WorkApp
 
-## Elixir Protocols
+## Elixir Agents
 
 ## Reference Video
-[https://youtu.be/Et9X-yNJwpI](https://youtu.be/Et9X-yNJwpI)
+[https://youtu.be/akrdQVQ6w3o](https://youtu.be/akrdQVQ6w3o)
 
 ## Learn more
 
