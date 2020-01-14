@@ -1,9 +1,9 @@
 # Example WorkApp
 
-## Elixir Agents
+## Ecto Without a Database
 
 ## Reference Video
-[https://youtu.be/akrdQVQ6w3o](https://youtu.be/akrdQVQ6w3o)
+[https://youtu.be/ZDaHHh5QJfI](https://youtu.be/ZDaHHh5QJfI)
 
 ## Learn more
 
