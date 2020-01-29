@@ -7,7 +7,16 @@ defmodule WorkApp.MixProject do
       version: "0.1.0",
       elixir: "~> 1.9",
       start_permanent: Mix.env() == :prod,
-      deps: deps()
+      deps: deps(),
+
+      #ExDoc
+      name: "WorkApp",
+      source_url: "https://github.com/Plangora/work_app_demo",
+      homepage_url: "https://www.plangora.com",
+      docs: [
+        main: "WorkApp",
+        extras: ["README.md"]
+      ]
     ]
   end
 
@@ -22,6 +31,7 @@ defmodule WorkApp.MixProject do
   defp deps do
     [
       {:ecto, "~> 3.3.1"},
+      {:ex_doc, "~> 0.21", only: :dev, runtime: false},
     ]
   end
 end

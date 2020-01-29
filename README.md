@@ -1,9 +1,9 @@
 # Example WorkApp
 
-## Ecto Without a Database
+## Using ExDoc to Document
 
 ## Reference Video
-[https://youtu.be/ZDaHHh5QJfI](https://youtu.be/ZDaHHh5QJfI)
+[https://youtu.be/KJyGsujnSwc](https://youtu.be/KJyGsujnSwc)
 
 ## Learn more
 
